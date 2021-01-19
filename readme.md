@@ -1,6 +1,6 @@
 # HearUs
 This is an Android Application for the visually impaired people.
-<h2>Features</h2>
+<h3>Features</h3>
 <ul>
 	<li>Path Hurdle Detection</li>
 	<li>Product Recognition</li>
@@ -8,7 +8,7 @@ This is an Android Application for the visually impaired people.
 	<li>Live News and Weather Updates</li>
 </ul>
 <br>
-<h2>Technology Used</h2>
+<h3>Technology Used</h3>
 <ul>
 	<li>Programming Languages - Java, Kotlin, Python, JavaScript</li>
 	<li>IDEs - Android Studio, VS Code, Atom</li>
